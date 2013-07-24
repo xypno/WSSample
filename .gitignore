@@ -220,3 +220,6 @@ pip-log.txt
 
 /Client/WSSample/WSSample.exe
 /Client/WSSample/Library/cache
+/Client/WSSample/Library/ScriptAssemblies
+/Client/WSSample/WSSample.sln
+/Client/WSSample/WSSample-csharp.sln

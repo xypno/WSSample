@@ -29,7 +29,7 @@ class UserInfo {
 public class Online : MonoBehaviour {
 
 //	const string ENDPOINT_URL = "ws://10.0.1.35:8080/";
-	const string ENDPOINT_URL = "ws://honma-r-hand-wssample.nodejitsu.com/";
+	const string ENDPOINT_URL = "ws://xxx.nodejitsu.com/";
 	
 	const string PROXY_HOST = "10.0.0.21";
 	const int PROXY_PORT = 3128;

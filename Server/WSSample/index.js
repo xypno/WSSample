@@ -17,7 +17,7 @@ var url = require('url');
 // 定義
 
 // DB URL
-var DB_URL = 'mongodb://nodejitsu:ed214e8b686991aeeb7ca885b2bcf36b@dharma.mongohq.com:10005/nodejitsudb1140433931';
+var DB_URL = 'mongodb://nodejitsu:00000@dharma.mongohq.com:10005/nodejitsudb00000';
 //var DB_URL = 'mongodb://localhost/wssample' // ローカル用(node_memo_demo)
 
 // wsプロトコルの待ち受けポート
