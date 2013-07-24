@@ -213,10 +213,10 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-/Client/WSSample/Library
 
 /Client/WSSample/WSSample.userprefs
 
 /Client/WSSample/WSSample.apk
 
 /Client/WSSample/WSSample.exe
+/Client/WSSample/Library/cache
